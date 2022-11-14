@@ -1,0 +1,26 @@
+#Register {
+  margin-top: 30px;
+}
+
+small.text-muted.form-text {
+  margin-left: 4px;
+  margin-bottom: 10px;
+  display: flex;
+  font-size: 11px;
+}
+
+button.chakra-button.Submit.css-jzcxx5 {
+  margin-top: 8px;
+  display: flex;
+  margin-left: 89%;
+  max-width: 100px;
+  max-height: 35px;
+  border-radius: 20px;
+}
+
+
+.PList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
